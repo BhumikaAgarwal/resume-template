@@ -1,0 +1,24 @@
+#cv-form{
+    padding: 0%;
+  
+}
+
+#cv-template{
+    display: none;
+}
+
+.myimg{
+    border-radius: 50%;
+    width: 200px;
+    border-radius: 5px solid black;
+}
+
+.background{
+    background-color: plum;
+}
+
+.background1{
+    color: black;
+    background-color: rgb(220, 95, 220) ;
+    border: 5px solid white;
+}
